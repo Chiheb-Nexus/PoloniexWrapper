@@ -21,7 +21,7 @@
 ##########################################################################################
 
 from PoloniexApi import *
-import sys, hashlib
+import sys
 
 class Wrapper():
 	"""
